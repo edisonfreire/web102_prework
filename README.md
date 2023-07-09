@@ -35,6 +35,7 @@ GIF created with ...
 ## Notes
 
 A challenge I encountered while building the app:
+
 I had to get familiar with functions, I never used before. However, I picked up on them quickly.
 
 ## License
